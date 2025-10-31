@@ -65,3 +65,5 @@ let num1 = [1, 3, 4, 5];
 sum(...num1);
 
 //Output: 8
+
+
